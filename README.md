@@ -1,3 +1,5 @@
+<img src="/logo.png" align="right" alt="Computador">
+
 # info
 I'm Elkmany, I a wild programmer, a psyco.
 
