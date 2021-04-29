@@ -6,7 +6,7 @@
 
 I'm Elkmany, a wild programmer, losing mind recently. 
 
-I major in Operations Research, Control Theory and Engineerig.
+I major in Operations Research, Control Theory and Engineering.
 
 Check my site: [commieview shed](https://elkmany.github.io/).
 
