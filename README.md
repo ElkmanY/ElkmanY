@@ -4,11 +4,7 @@
 
 <img src="/logo.png" align="right" alt="logo">
 
-I'm Elkmany, a wild programmer, losing mind recently. 
+I'm Elkmay, a wild programmer major in Control Theory and Engineering. 
 
-I major in Operations Research, Control Theory and Engineering.
-
-Check my site: [commieview shed](https://elkmany.github.io/).
-
-Email: elkmay@163.com
+E-mail: elkmay@163.com
 
